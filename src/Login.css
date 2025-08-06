@@ -1,0 +1,23 @@
+.login{
+    display: grid;
+    place-items: center;
+    background-color: black;
+    height: 100vh;
+}
+
+.login > img{
+    width: 100%;
+}
+
+.login a {
+    padding: 20px;
+    background-color: green;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    border-radius: 99px;
+    -webkit-border-radius: 99px;
+    -moz-border-radius: 99px;
+    -ms-border-radius: 99px;
+    -o-border-radius: 99px;
+}
